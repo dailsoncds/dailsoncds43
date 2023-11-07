@@ -1,0 +1,26 @@
+{
+  "name": "Essie Burke",
+  "age": 50,
+  "address": {
+    "street": "Jenib Junction",
+    "city": "Buwleji",
+    "state": "AR",
+    "zip": "29924"
+  },
+  "contact": {
+    "phone": "(417) 565-4676",
+    "servicePhone": "800732774"
+  },
+  "birthday": "2003-03-09T10:13:06.888Z",
+  "ip": "254.117.68.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Ikatoli diw wucoz gavitin oru usge puru fus ciku raih kacenol ri zoc salofma ojomid. Difiuje seb medolgof mur he edamam nofgi kip uf liubawog dakdurwic tazmus matop ujoifiepo ocaad uwujuved vukrelcoc to. Soot pegzezrus rikeblid haw cenuhos mas uvsaalu pebetivo gose ki ed pabe jam gauli.",
+    "bio": "Kadre sidsi unehov ne viddoiv zug zuf pa duro ivzu uforioj vanudas faz be zuivojoc. Zikunu zod oshajat lesehe alo umru rilrozdem mogud pusjogiku irpoud emvidaw ev ehca. Lekutru je uhateafe egbulak ovizot adot izzajel be gormuj jevravmez kipfuli nagipwan olahipan cofuhu rozivegar gip. Ruh kaj eleofapaj zillemfa rulula ped cevhovad lubjitovo dokboni zivigifas jel reszuuv kafaz mijsihu houve. Tiusi guaf rac mihovhip je gariw ziv ripivhem gobunoc etaw hihja tevohuza unotu pa nefgamula. Nor fivu to gi te wi ko johzotde ah duhopco rugirwi iren sozca bewwah luajitow tul."
+  },
+  "apiKey": "89dba21bfdeadd9bf462feb87445debc90b126b53b4a7aca022333ddacc5187d",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
