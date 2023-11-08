@@ -1,0 +1,26 @@
+{
+  "name": "Marie Hernandez",
+  "age": 51,
+  "address": {
+    "street": "Ojowaf Lane",
+    "city": "Cozvigob",
+    "state": "IA",
+    "zip": "31707"
+  },
+  "contact": {
+    "phone": "(666) 773-5568",
+    "servicePhone": "800264151"
+  },
+  "birthday": "1980-12-15T18:59:07.919Z",
+  "ip": "42.126.155.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Wa hawuz uzavucor fanob dazes vihutjel caggel kepwad vecu moj cuw medfa so hes ute no. Su habdid fuluz gosehdo oceuzoju ugipdus laikpuf awuga vupgu umehi ga vidizno tarbutjaf saku vagerova. Hogovgi fo uro mekfirus ma techa amade te keziki abawi uhturri luwkip.",
+    "bio": "Ver nih ca ofmevif nauvus fi kec anunofapo cerbowa jedka sazasve otubodfod becgavzo sifugjil akniwec sup fijo. Cizec jaccoc wa gu nicto muvojog womi omuti cazegrav hib uvucez hu devdajso upo irarur zi wub uc. Hesusi lelcokma linlu lijerece ojogosag bace rupu uktu kejcuv heiju se olo jaklikgab povak ulmo."
+  },
+  "apiKey": "0cf2ac624c36cfde51b4bf45f188ed685e54362db5cb4dc91486dca3a2e92f5f",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
