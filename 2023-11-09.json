@@ -1,0 +1,26 @@
+{
+  "name": "Howard Ellis",
+  "age": 47,
+  "address": {
+    "street": "Upuid Place",
+    "city": "Tibulek",
+    "state": "LA",
+    "zip": "74929"
+  },
+  "contact": {
+    "phone": "(420) 984-2739",
+    "servicePhone": "800133228"
+  },
+  "birthday": "1979-11-13T08:10:52.166Z",
+  "ip": "74.206.205.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Wow walo udefo noget jup ebzo offuz optov ejukewpe vofjil zozaer vi ifinana buwridmu soaj bos. Vo ruztik vipofo ujrelel rep duizge wecica cob biherabuh ju ne oselod. Tizted bimopvem tovoapu tot pononub tu opusede ukebihu bov lokalu gevohig bipu awas jo ihdo sonale lu bep. Fob vihceptu fe ringadul dijso gimnoju titja roflet mudi lo sib nuluglo gos gatja. Viebgi weljimuz ici zimmic roajavoc ivagzi di fiwgukev ufualmum lad cokdomon vavoz. Ada uze aw ibezuf gewhaami nikolnok irihitu hafgil suhda figotif urzepa rista ed gemkibo legavriv nezugop nipzon.",
+    "bio": "Tedepafu giwe ci miv apo inurij ra sovamere inu muzwulele rawfehdip lid og rizfem so mo. Oludu zop cov semsuit esfi motvofi lu an gicupfu hobogaime haj sumnuije zozra konhit dizuwa. Po zeb zev caebuhav wirodbo bi webjapja sija ehahe biz eh zokgemo uhdona sip godutav obupu. Sobhusuk lo ugojetug bicuvli vi baevvoz ci zibdu ersegfar tosa inootamos luepozo ranwamob. Vuk te tute todofoc obo so toakuv hopat hub vijlo ak zejge bobemi ogugufta ped guhedim ojmu. Idita ca bezmonej jikwe bedak halnorow puh etce geibhoz zodoz ivaka zuz. Fov tothicid zol oru momig de lu kepi mi wan huidran mi da."
+  },
+  "apiKey": "3776201f41cb1d12f6b9edd2eda68c8de16203415f00a02423342943394e9823",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
