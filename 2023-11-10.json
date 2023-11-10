@@ -1,0 +1,26 @@
+{
+  "name": "Terry May",
+  "age": 42,
+  "address": {
+    "street": "Vufo Center",
+    "city": "Gawcoce",
+    "state": "IN",
+    "zip": "35025"
+  },
+  "contact": {
+    "phone": "(785) 424-9999",
+    "servicePhone": "800679235"
+  },
+  "birthday": "1988-12-14T16:48:26.065Z",
+  "ip": "214.232.34.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Pej ruri ovukirpi cesva uco egitibi wuhvinec gekujuz fok mevgu hus epdu janojfeg julvecka amo titgen iz. Dumu na wawabor aha riteptuc nu bamaco fa dev mosidpak mozegaji hevoju. Avbaan raele de ucerorak woukoc num vij don anovopbu daej gezamon et egfog. Surod cadferak ehupi bo od egdoj ek ber epucof ag zupaki gacpakwen mumerew vivcor rivgeno selawvis kiuvo.",
+    "bio": "Ucu uko zumah ifese ato ruon zep lusnov ehgih gecadutuc meku jeframo lufwenuz wivvov wo. Ca or rub owifed nokvidu jeva lorigi cefupi zifahi fomisoko wiickol olicu uwo mevre. Oj hi fotcame vecadlo ul raf suwe tunit dof nawtum cer fogkaac tok maf. Aknil ubekev zub cegkuc pajapo ume pe uv toffiwbod uceripuv ko palurre se. Usmupat muzloso avakaruc vah visbefzas gapiwkot fatji codar ol puewgab dolneiw ozased rewezozo disponan onetogi kadgaddof jam eda."
+  },
+  "apiKey": "76c5a2eb0ef70a737dbbd13eccf0b041bfbea1b8a1b87dced79414cc88fa1253",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
