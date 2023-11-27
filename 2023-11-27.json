@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Bowen",
+  "age": 31,
+  "address": {
+    "street": "Niwor Drive",
+    "city": "Votjute",
+    "state": "MS",
+    "zip": "61544"
+  },
+  "contact": {
+    "phone": "(957) 625-4399",
+    "servicePhone": "800495999"
+  },
+  "birthday": "1960-01-16T20:13:20.346Z",
+  "ip": "173.157.154.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Mutur sahji efkalig sew pih jukgeos jo pecofano congac dahir ceme loiffar joje nivwak nevug. Moftanoj fochihi vi du puttatoco jako uk ef fehsojuw ju fo fovukwa gedosep cefwimnej. Fozfop kopres ge nugibmo ge nufgubza ur lappad ziw fefju heino ohluah cawligsus. Rem zog robu fuavo vonbe fafob esne cojzofal or bebzoz mof ub saraefi. Ekeiru ehofibzej cilezpoj woj nivwuz behnol so ozciz elisovog rev suke beawoob.",
+    "bio": "Tobuz wiwija murfig ag nobtirik kon pestosad sopik lorawezom cegatkic liirohe kewrulog rihe. Doiwpoz zul zi zomnuhisa jithupe uza mo nipup wisjip ezoufu hummajop du headiri erocub zunez pirci fowicde. Oderan weoze ca ojinoh lapih tuj rip nad vura biguzi pafuaj ti dufij wimnu sivlir cimim. Mute fecifit lavas po toer joatopiz se duwo tojessar puw pe zefbe felloho veaher vovjahen vif su. Navet ekilwew giir ho co iciki son du idafotud wibhar eteanje ira vo abpi."
+  },
+  "apiKey": "ac87ea2f1e8f10f8b9f9f9698c6af4bc6a28ad3cc2125f473fbb10529a086bd1",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
