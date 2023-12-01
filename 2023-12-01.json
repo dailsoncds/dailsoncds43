@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Gonzales",
+  "age": 65,
+  "address": {
+    "street": "Migus Place",
+    "city": "Wazugago",
+    "state": "SC",
+    "zip": "83603"
+  },
+  "contact": {
+    "phone": "(605) 459-6954",
+    "servicePhone": "800482798"
+  },
+  "birthday": "1993-02-02T19:40:49.366Z",
+  "ip": "218.251.20.53",
+  "foo": "bar",
+  "profile": {
+    "about": "At du rozek kid fiwerfo febpup ripikep gimicpip iciij ire wul ogu. Vikos vigahe kul dari doufuseh iwacirij wusaho cijluf noktigzul ceguujo jon et gozrero ninti ohiagehum avbub. Goilerij ti obeot iji ac pez onwac it ote heporfer gamde ubojifa unukaked.",
+    "bio": "Guz zotu cikmebem depolid dodrecjok peznefper evsizow puwafka budiva ti cip akluc cifav paniga jetkir uguhi. Depipzil bieh gihu ulcu torje owo difa zuckerawu pefib cigivec gomip be la lecewi. Igoc ladloglul gab abtep bucu tan bidire dufi behpow nu lilumnih dotgiw evejojdo gentu mobo puera. Gu hojbatiz gablob hoorawac nurute ru tiru kurduza hud fijegi doplegdo sacacmu ruser wud hijwaw po lo upfeno."
+  },
+  "apiKey": "bf8315ab143679561da94fceb9806ef9397a529dcfd657440f7b1c94030cebba",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
