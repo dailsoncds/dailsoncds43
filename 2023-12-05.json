@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Baldwin",
+  "age": 44,
+  "address": {
+    "street": "Jabin View",
+    "city": "Upotubut",
+    "state": "DE",
+    "zip": "43044"
+  },
+  "contact": {
+    "phone": "(421) 672-8201",
+    "servicePhone": "800923263"
+  },
+  "birthday": "1974-06-02T21:59:06.811Z",
+  "ip": "76.205.63.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Ja vowgufle roegar egeoza labifoohu torjena cu ficdilde vinulo gukzemu ozpi cat tuerkav. Pohara mofwa ohihli zogabguk owuicoine ter igawo worbi gorzisbow memoci teanu vikkebi bi vaowjed leh jotu ti. Ufpiaku du hajhoz lelhetez urakivi suzume zop mi giefacaw etcod corfir gasni. Vaejojo solje zuwoheb sodinja zuljonki neagucem cod pu if pubije dab me dif ijhet. Izaheta fudme rohohe kadpukob devavki henmavas id didohtu wob fohcerile cuuj nadoz puor fi nivu ulolne rer mudle.",
+    "bio": "Anvedadu ta dazof ehekibvu vaz tiluze ike zo gahol fid durmauvu nuh la oj ufe. Cu un ze tu do lan cinbusu agje fergelwiz sa heamoef vifmod ap. Jelpuhgut rijik elej ilbiav on so fezri do ke neleka di wofe bin pujdamar."
+  },
+  "apiKey": "bf330fd98c4c96a09f061ea86f4c82f8a65080286cd469581e3ff7a85671e576",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
