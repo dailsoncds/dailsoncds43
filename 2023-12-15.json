@@ -1,0 +1,26 @@
+{
+  "name": "Albert Barton",
+  "age": 42,
+  "address": {
+    "street": "Fetek Loop",
+    "city": "Sipvecso",
+    "state": "IA",
+    "zip": "24683"
+  },
+  "contact": {
+    "phone": "(346) 852-7063",
+    "servicePhone": "800286957"
+  },
+  "birthday": "1968-06-12T09:13:17.185Z",
+  "ip": "45.7.126.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Fujcu cat vido kejiwa mib gisicgeh ruki hogi simove meg uvizifah vizuwi wadro neiw fa tazon. Ed evare isinujcu terceti faza zijezi ruwowo nudu rikeej owazenga wuzmid zabosge pazto vu reger nohjoit wuk cafcocoh. Uze tachuvda ageli lo daate sev ije rifudla ka net nep so icitevvif ireav wilev. Vowvog kon sa mec socuru bovwu gattig jat kiwdiw ja didwa zalbi opuhuw gimapmel. We urugis zuewafe suvup henhu kozzejlo riken liguap at de deorica tiuguteg.",
+    "bio": "Jiwucek vete vatezlos lulra vuwkuko hat vi bamomuv pinahno bin imer fed gujwemak okvunvik ka zajup kibi zemutjiv. Ejiwe jetsaek jam oku sezrahul wah dij vautaron enji oz owcaiwa vegpotet ruom pa jah zuv defodu. Camudero bunpe osene si tunihew agejovfir romo jel rahed siko erihu jurfek. Pusohcu bob zi gew jepe emukur wibmubow sodi mavuvafi nej tabegi kaf wihriaj jetwuabu laf feuca aviroc sowuzjo."
+  },
+  "apiKey": "1af753b5aef66ba45d9039a33e957fd239756c609c991e708a235d506a03d5b0",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
