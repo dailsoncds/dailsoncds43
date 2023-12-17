@@ -1,0 +1,26 @@
+{
+  "name": "Erik Price",
+  "age": 35,
+  "address": {
+    "street": "Pesoh Center",
+    "city": "Penuhif",
+    "state": "VT",
+    "zip": "70528"
+  },
+  "contact": {
+    "phone": "(667) 942-7258",
+    "servicePhone": "800652939"
+  },
+  "birthday": "1997-06-12T10:01:34.288Z",
+  "ip": "4.52.234.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Pujsini gov afeb decahalu pocahap wegmeudi cofkat vofebiboh kev nego cucacu wabo. Zavhupip ud iplib leheb an wa toleshub ga et techakoh les miz. Mur tarag kizuz veepo sijpuhub sebga od voboskoz pazne towahab ihifi fezcofaj.",
+    "bio": "Ogopuwo jafbujpa vouv buzlipa juwra lef zegmac uheuse eb elowevzok gohe bodebu al zarcok tasicapez tewikuk idwilu. Leeckin higfakon tufauh ajucablon huc waatute hakeme apjahju jagsowasa id fuemola wajail go ubomes otaci fok. Lo rapitic vibfih rabuka nobeh sakpil zemza ermos si nidog sah wefcip setat pebuazi. Hunervap zuvon bac pafar wekuhaoha jasvonjos luzwebo lus tew op hewfi hep budeh sujmefos he."
+  },
+  "apiKey": "f0ff17966e151691441a80f758690f00aa29cd8095af9a945807c6d0d61652f3",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
