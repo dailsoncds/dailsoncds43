@@ -1,0 +1,26 @@
+{
+  "name": "Rosie Powers",
+  "age": 34,
+  "address": {
+    "street": "Cofhak Park",
+    "city": "Zoznogi",
+    "state": "RI",
+    "zip": "18456"
+  },
+  "contact": {
+    "phone": "(574) 459-5347",
+    "servicePhone": "800195897"
+  },
+  "birthday": "1979-12-31T22:53:13.986Z",
+  "ip": "137.228.40.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuf giruf vis osunad iv la re tip ozometuj boumuso tana lizdi. Tabeiza daz goivoruh ta wub pagi suh om jonzeiv gef ma giv. Itozir tisson girurus jefju wuaj kev eba jitobha tina na mi na wumidase.",
+    "bio": "Fifledra le huhiw sob wibdida ladedpo efhot juarwo apojaor tic nob fugtife. Iga iboatipa baharubij ces tas ge sazidoba nocbop liveketup hamtabo jid mozpim gas cizi edirahad caipon sa. Te foj vorti sa gukaris rij gor cer pud bouknu adot hebubobo vipabur gofid ihsiuju owuruzso packo asfun. Lentete vezolveh keajari nowgajol ukve sopdulvot pulbaica diru teecadov tudvazru te zaho osguzriv majesu tulema fedi ozlizew dob."
+  },
+  "apiKey": "302869938e25c8bed951e6f6757999273d549260674126409e73199669ca3c6a",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
