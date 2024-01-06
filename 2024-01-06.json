@@ -1,0 +1,26 @@
+{
+  "name": "Essie Young",
+  "age": 41,
+  "address": {
+    "street": "Veome Trail",
+    "city": "Vijezup",
+    "state": "AR",
+    "zip": "18566"
+  },
+  "contact": {
+    "phone": "(587) 958-9325",
+    "servicePhone": "800711467"
+  },
+  "birthday": "1973-09-21T12:11:16.068Z",
+  "ip": "35.38.211.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Puvho kac zew wiojumid casa ezlo wulge jokjolda gisizog los ridu pisag. Ofuozwa sipatuvus zorzurto poculrez vu zur azizefvil hivcara ufgod fuwsolvi ozikoh dinu wicduptoh. Hekki ogile apenegi nusosiv pusjad tizi essudic zu dot cawiwif bipud fo uhe.",
+    "bio": "Wesuno vofgolige iro te felbihcu buwhe zemizowe umoboj ugdim mezfi ecril teebeec cuka kesvopi fizzok. Zimewa tufijo cun goeg kovahu wiotojuj zegog ga kes iregi peli uhejpo kumohko zupiku locas jawzalam iceco. Pefiha ihmiz guk widufutah ku ef he em loloho wibuj fal ekzej dashil ete tubav kabuba zu."
+  },
+  "apiKey": "374e3aaf444feda3e4023e6297c02b63e1c1938e9b2b6330ef2240a230120643",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
