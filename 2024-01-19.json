@@ -1,0 +1,26 @@
+{
+  "name": "Lucile Silva",
+  "age": 24,
+  "address": {
+    "street": "Manep Circle",
+    "city": "Manrelo",
+    "state": "OK",
+    "zip": "12775"
+  },
+  "contact": {
+    "phone": "(457) 885-1671",
+    "servicePhone": "800376734"
+  },
+  "birthday": "1992-01-25T09:01:53.247Z",
+  "ip": "150.124.125.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Jopibus fevogoca va kogose gasu ornin rofaguje jegico nidrewum kugu wuszumzub zekir ud ze tukare liechol. Noj vantes pik lulfocez nitin geakfo etoeguga jiwoj opelu lab udwu hecmi itu vohhar joomduw vusfi get. Du kooju bewboc ubune astut debjizni enci pipaso wo nibvunce avu nicehliv wotofesik tudlo pi. Gec mim ta hiusiob mok viznicwe eldik kogde zulotse hag jaer wulo hihupsad kevuc.",
+    "bio": "Lukemagi mur zuoti welme ud elbo po ubir cuzew kulbuhegu eweuga hinelook iruvuguj madlupi mehaw niduraf. Amepe si we mahe te arejos kaimozuf kepmuc ojiav sehcit mujovot geho ta abino epomofej pit al up. Geovi ogi movnuv narsirda alahurow ugokep adrurat uti cok jutuju co ebawen tori irahes zuvotus mujuat."
+  },
+  "apiKey": "ee61da8bb3cf6874136fc5c901e76512061605a42069ee23ad1872c23abe4104",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
