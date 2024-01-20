@@ -1,0 +1,26 @@
+{
+  "name": "Michael Munoz",
+  "age": 50,
+  "address": {
+    "street": "Finej Square",
+    "city": "Jicibsa",
+    "state": "MD",
+    "zip": "19938"
+  },
+  "contact": {
+    "phone": "(410) 801-2334",
+    "servicePhone": "800957792"
+  },
+  "birthday": "1983-02-24T03:13:38.246Z",
+  "ip": "65.135.129.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Ju neef hodinvuv imuvevci wofnah guc abuwivir ud jetawcov hublowi fi decuwjob ug. Muiflub om omserfa je hewriro jedovsop adkacles pi focudso nitwo ge etbordad ata gopugilod hoebu erife witnone. Vatij bizli aj sosep tuvug vihhalo fihulopa hemunliw ihaiga os asogancaf doojo. Put saso sobwomij zawah emi povreze uga jimlitzap won mu epewezuj ujero odobowra muhiv roige cumva negan. Cajuogi anculhe uce lomwalo ippi weuwa jesezor wewuzhig kujdi hop tugez zidpok.",
+    "bio": "Set epo jepkagu pobcuhre hescako afwusrah ha obibagot ganfopi sa usitmo du. Lew meode epi palef vacem jopocwa avu licba cuhamte do biaju dehuno wislu me owcolo. Gisot cizojame kot olfazgap tizo hakje buweir ej orohgac pensusute bukihe nad."
+  },
+  "apiKey": "53fe72e486ab380c35854002389ba9a2058f0518fd5bd1cb37f01fb843643c9f",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
