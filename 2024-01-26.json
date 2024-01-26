@@ -1,0 +1,26 @@
+{
+  "name": "George Cooper",
+  "age": 40,
+  "address": {
+    "street": "Ezfa Pike",
+    "city": "Ihhaflo",
+    "state": "VT",
+    "zip": "11026"
+  },
+  "contact": {
+    "phone": "(717) 750-6687",
+    "servicePhone": "800176483"
+  },
+  "birthday": "2001-10-09T04:45:05.660Z",
+  "ip": "182.231.204.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Rijuf nicu garimad bimoz ru lehutvi vew julo dime fo cawdi wimheipo betasen saltoju huvrihub ariha. Soik be bupeh jajapa we ranregi vov ad feblofnas ed nog be. Ma emulahnu vuapituh upuziwun fe uwbisak ucuaz fekma rafmi ko hulifew webikaoci suk bagotbu tevzoij.",
+    "bio": "Fufewu uzuure hubiruk cocuze noko jo kikuohe ubowo ceza joz vuh teb ah sedfe bu mi. Bag ami feot voro vuvpuhbe cahroz mevvi kafnul secefter mamwak ges vutolikes kecat. Za uwli sovi ivi okuwuwvaz melvincag rijeh jep ziabi dishir ji jeahvek. Uzu kis citi je kozop kobwig nadsi nivuhca tes ve biz ikozeg keini ol siutbe bafijak siwpur. Tugepum ninvokga egugelol pinob va ubuc si pejefiv ig deglem mepfu se toicu hawadmac waju. Lajev le uczer lo agwere udgar ureriwi na nabo ovevo hulze sawe joscabuc fauka. Kopducoh cemsopvew buj ohegijodu sahiwa vageb zohi eh nuilfi morenvu uw jor wulif wilib or evotucof ve."
+  },
+  "apiKey": "47f80d181dd8bc7ab1939e38d846a4422508120039f47aeaf32ebe6bf47c97da",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
