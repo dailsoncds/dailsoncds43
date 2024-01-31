@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Guerrero",
+  "age": 50,
+  "address": {
+    "street": "Kauk Point",
+    "city": "Minule",
+    "state": "NC",
+    "zip": "60020"
+  },
+  "contact": {
+    "phone": "(430) 485-2567",
+    "servicePhone": "800112668"
+  },
+  "birthday": "1991-03-19T19:01:20.096Z",
+  "ip": "140.113.187.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko oka ragpajal on avsa tam akagir pazu uvo ameavuga vewpis hedgugiz he ej. Ki dad vusuw dislotci wu dohin igi miveju cefbaric vewaga wuroc vu sisu fifoc. Jerot rajo cutulse bes so eksazvon zalugi taojmut gakag selu tu vetfocaf heowu ganola zibcirab. Ujulivir kit da vo talas rovjibmep tawowku vul siun hek puk la. Figo soh opeha pu korke va kof riztiz hepe resahec iguvum uf. Huv ron lurub wafwo micsusma pusiv di har latap hufirij naivuz ubsagtaf ge abef agisohe uc cefolu ote. Jerro nede capcisha zonfibva baceha bewejag guc vi no ma geftim rownoh vap dohuwzu lozujud.",
+    "bio": "Tuj ezafiwak uc usmup av nawiga sovkiswi ta mo goboj ufinvo mobik fazi davwokuh. Roresit remusakez ajfobze canbigow va cefisve odowo dur uso wenbal fobronow duk nar beale ti ok poami. Niv ibzo egekec fagtiplab bor kizu ojoukvu kur dugcoz ropfuet foke ja egti mizifila cojvac hokjazeb ropud."
+  },
+  "apiKey": "087afd36f562a0be05cb8af241646550c0c22a43046b962fc1b0424c7587b4ab",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
