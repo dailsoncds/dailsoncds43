@@ -1,0 +1,26 @@
+{
+  "name": "Minerva Fuller",
+  "age": 50,
+  "address": {
+    "street": "Ozace Parkway",
+    "city": "Widhaffup",
+    "state": "ID",
+    "zip": "62479"
+  },
+  "contact": {
+    "phone": "(502) 926-7500",
+    "servicePhone": "800732628"
+  },
+  "birthday": "1994-03-23T02:44:53.874Z",
+  "ip": "179.89.32.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Takkotug hajmas ebone fanpilo uti wu ogzac vaiva waotisuk venem pe fin rutrujo re warto uvi. Rafurnul fi odefi him bebu voku nor oz jincafoc fi duzaza vafot jiz. Wulejum bo lur ticwu dicapa lalelif toikoow us konwa laazuvu ifpakhu ko ji.",
+    "bio": "Zu fudtofik tor wutdu nuc biruta nas vegesa bew donaw gennonef veesu daj acaduji. Suh zi pat og rugkupwi go ipejicum fakadav ro ud voziher mulitna oco jebdon kehuchus daj comuble radordo. Kaelte zikitna leofojo don ve juw ja dafwarnel nukpizhe bup siwiedi mudawdo be mirdaw wuga kudi. Si java ra nihjo mal abueviko fodpuktog pofak bowo dehuv duateelu zoj ka uto gacufle miatle."
+  },
+  "apiKey": "c9a6fe03202cb6a06fb725b0aafbcf5868d03d87e202d0a51822e620ed99c466",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
