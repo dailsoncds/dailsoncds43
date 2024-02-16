@@ -1,0 +1,26 @@
+{
+  "name": "Earl Nelson",
+  "age": 49,
+  "address": {
+    "street": "Suuc Plaza",
+    "city": "Wippakeb",
+    "state": "OK",
+    "zip": "64265"
+  },
+  "contact": {
+    "phone": "(512) 265-1148",
+    "servicePhone": "800285573"
+  },
+  "birthday": "1997-11-17T18:20:04.174Z",
+  "ip": "74.126.2.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Gobifes ca cijurbug ufjis powus bi depige no behag timip veteas gu pireza vozopoub. Je iwvu bac suoso tumosbe akor itoeku ottik iteajva ladri oki po fewhinok leckovlaz wuhdammu lohep ojago. Zenzihij jel vucowbec tew te zi poewo ga vi vupisci epaevo giluku vehcehco ivoke bubutcav. Fowsubvoh ogiceep herjoge zahaus nobinfuf tekzoc wugah zesfubom wahehune tac voswa ci duhiceaj govo zucid fenducabo rehvodvo an.",
+    "bio": "Kawidi vonhiz naod cafenuem sipejo dedi vupasoh ebpe wempak oco bebbib un duhacak dujicge oga kon. Diswofu neswijbus hano te ropi elica ej cilzekik tut nolijwu egootrih ku no mikesuvam. Tafje et sokuv efueviima pew bep liz wa ji lisidewa tu ahekohes ki zivu er lugekred em."
+  },
+  "apiKey": "02bb326229e71c88bcdc10e0621fd5fa57f77e2ce0c9bcc7136dc4372dfca530",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
