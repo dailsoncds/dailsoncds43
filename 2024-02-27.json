@@ -1,0 +1,26 @@
+{
+  "name": "Katie Maxwell",
+  "age": 32,
+  "address": {
+    "street": "Hosic Street",
+    "city": "Fesedabu",
+    "state": "HI",
+    "zip": "54431"
+  },
+  "contact": {
+    "phone": "(244) 341-7869",
+    "servicePhone": "800762252"
+  },
+  "birthday": "1980-03-06T19:20:27.243Z",
+  "ip": "191.88.17.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Fupihezo hataheb tac zutusu ehbe ehahe panih hu wuefivad morid kitu esijemi. Ju elo bu neklazo ok feduk dov zidoha mehho vesalwo ka vupfen gi kob ifowi zoot. Vileh naldafab urarazi ro ashi otpoubo nuw daczi hejone mi wuire rivigu soiza ji pudin adoetiuca tufunnek. Ca ecebeibe nip gelafji falin rojguddat milwemfa fo zicebjo tesiemu zol lofadpiv. Jiw tope ubgi gutmagta baphi oniemsi akginhiw ehumu loene nimuuku novabaace ledrap ripcohgi banbom cucilpu be. Hagaver raomo taajuda tuj ololaw sa joprocez se zu vovagegi iveki enomimom hansolu kiol zeztavaha mi bug.",
+    "bio": "Po di zemisi mal rik wuj to bem rirodsog bepoba ihosu odavovu joogaha jetoczik rifgilnal rom cadja to. Guwmonwi omete vet ge besampab ni cik sobza zaoza izuni otjuftat hut memkipo ipmifac. Romtuw nivat nubelnu roojduc bik mon om etduwav kodbo awiejdew owid ozuba jadbis."
+  },
+  "apiKey": "a3a72e33f2c755a098ab6fe0f9e3abeecc19ed5446c7fa4cad5c89073b793de0",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
