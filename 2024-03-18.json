@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Flores",
+  "age": 22,
+  "address": {
+    "street": "Fihuji Avenue",
+    "city": "Gamposeg",
+    "state": "IL",
+    "zip": "74546"
+  },
+  "contact": {
+    "phone": "(704) 769-3278",
+    "servicePhone": "800196545"
+  },
+  "birthday": "1981-04-01T05:19:02.624Z",
+  "ip": "3.188.109.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Gafnah zilaco puzewi to gakbuf faz juwjuf renam aje ubata huhujfij wom. Domam ovi kecden su raajo piaz nukgu kucu wilwewe elo wagmata etu tambapor siksomeg baav nempoj. Bi meknum zo loswac eg nilbiba ma maw ipemja jal zos ris ga we covtaf tacuko. Izejen ceceb hap mipoz de caji linapaoda makodroh sevtizuc gieb azreape ik kozbusgov.",
+    "bio": "Zes duzde edzemadi rukot pis kavicveb ruk gaoloej zo ebo lewsip uwuses lowmozag hidhe razru matrik. Juk guhocpi herwad moghi meah weiz ha rebdu ifo zetreuri mati gikre. Kempo su leckap nakfuneje jo kawmor sunwuep fujta poz hami newneda fufa gewuju pickoap sef uf."
+  },
+  "apiKey": "e1c8bc5318d34d0cac6977c7cbfecb511770080494c3910ea7ed7f9dd226c995",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
