@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Brock",
+  "age": 23,
+  "address": {
+    "street": "Akumu Mill",
+    "city": "Foesiwan",
+    "state": "RI",
+    "zip": "35092"
+  },
+  "contact": {
+    "phone": "(733) 403-2538",
+    "servicePhone": "800945375"
+  },
+  "birthday": "1994-03-07T04:45:41.079Z",
+  "ip": "199.20.146.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Kiari tesdos hoc ifirawu bi jeg lupvocuhi fuv zemhakez ruha ojipahgej soobkic zarfuzmi. Su piutuge don mec sahi gatlu lod foakca beetbef hek dekvij no weze ka usgahkiz pud agaciso. Lijodov tehkijaza nudiwi lat jovifko kotovmi todtodrep ec cilewenaj cenzoc bukuc kuzi cij bugefca sip uwefikzu mu. Igoguc siobu jun giso kazupu fiinvi ge heve cepku nuh fuuse uce cu ti cunwagop. Fevavce paki loh ap zoki kugatomu gutita bakzelik vag onaver ta ceskukraf bo taj. Jittuh di fimbon ujecu bi sorildo etuijofu ruru bi kicot jarhugid caulurig colmil poz pidezse vuroggaz uhi. Gezkur esi lutcihdil keoraba etpe momgi ku eke ebugo cameug tabocois perugup.",
+    "bio": "Fuc epe ziw dimihku om zin te cehuh mil moonahi jomhim geruj nihgovki gu coiz si mahwethe topilfos. Pono viwus ciowa ewogajtik asgu panhukaw assughup doze bokfeg riaji uwavoata ifubitum gafepeti wanleb me kih tipha. Fipad rosun do vogmi vecewbi iwijev korut duwudtew mamakat tavigo samiji eb zow huz ab jihet umtikava zonet. Ituudmu ruz udakocud hiroc budenlis puz son honki guk mi daah omvu arnu huriphej bosaz mo. Pakonvaw zuz opeseswu vi geb anma mon ewo basuke ehzeaf doab firpup fe ikipob tigwowfo."
+  },
+  "apiKey": "339c2f6255a5ff2483b693a3baa09d2841e5217509af0dff029be84dfef94de1",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
