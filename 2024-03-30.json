@@ -1,0 +1,26 @@
+{
+  "name": "Christopher Lamb",
+  "age": 61,
+  "address": {
+    "street": "Morod Heights",
+    "city": "Vozzoga",
+    "state": "WA",
+    "zip": "42039"
+  },
+  "contact": {
+    "phone": "(286) 726-3982",
+    "servicePhone": "800438298"
+  },
+  "birthday": "1975-11-14T06:25:50.237Z",
+  "ip": "28.195.245.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Lukzod ucu tavgon adevon hocozzi seij si rodwe fa gat egaeput nocduw fehruttuk. Gaf paveh ujsus wu loiripif wabom duw ira honalco epoabobi epife jidozit opifanho kol. Cuh ef aluva fojpoj gehom il puheso hijvuh no puj lenogas saf go hib.",
+    "bio": "Nadlede ucjofi apoohori ig biki dehse nuklu joj vajosfe fatfenwu ulgo tucke. Up inokap mujlen bop ozfovzi vut libujmo sa ve iwaro am ektomnad sosmeig. We riawzo me awaevluh wici to ni zute babdiki labek joraci pajip ro wobrafos unaji zirij ku. Voheve ehij cobu vo hi foeme noul orhag vif bebe gepfa im hajno tagwuir ifidat lon esete. Ijo red dewosuj zejza gemluzu aziepmek powip pij ofbeso gus uf uneileir zaja je gok ugi."
+  },
+  "apiKey": "bd35034ae73c76a781abf7d93ece32280765b600705c4397be8073a21b2b060b",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
